@@ -22,7 +22,7 @@ Proyecto completo de **Física Estadística** que explora el método de Monte Ca
 ### 🎯 Objetivo Académico
 
 - **Asignatura:** Física Estadística (3º Física)
-- **Universidad:** [Tu Universidad]
+- **Universidad:** Universitat de València (UV)
 - **Fecha:** Febrero 2026
 - **Calificación:** [Pendiente/10]
 
@@ -321,11 +321,11 @@ Este proyecto está bajo la licencia MIT. Ver archivo [LICENSE](LICENSE) para m�
 
 ## ✉️ Contacto
 
-**Autor:** [Tu Nombre]  
-**Email:** [tu.email@universidad.edu]  
-**Universidad:** [Tu Universidad]  
-**LinkedIn:** [Tu perfil de LinkedIn]  
-**GitHub:** [@tu-usuario](https://github.com/tu-usuario)
+**Autor:**  Carles Ginestar Siscar  
+**Email:** cargisis@alumni.uv.es 
+**Universidad:** Universitat de València  
+**LinkedIn:** www.linkedin.com/in/carlesginestar  
+**GitHub:** [@tu-usuario](https://github.com/ginestar8)
 
 ---
 
